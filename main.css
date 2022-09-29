@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 4px;
+    font-size: 20px;
+    font-family: oswld;
+    color: beige;
+    background-color: rgb(204, 132, 38);
+}
+h1{
+    color: rgb(107, 42, 4);
+    font-size: 24px;
+}
+h2{
+    color: rgb(107, 42, 4);
+    font-size: 22px;
+}
+.borboleta{
+    margin-left: 250px;
+    margin-top: 25px;
+}
+.flor{
+    margin-left: 325px;
+    margin-top: 25px;
+}
